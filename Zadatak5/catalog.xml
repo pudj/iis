@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://vrijeme.hr/hrvatska_n.xml" uri="xml-resources/jaxb/Weather/vrijeme.hr/hrvatska_n.xml"/>
+</catalog>
