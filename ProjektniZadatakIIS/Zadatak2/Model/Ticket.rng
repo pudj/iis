@@ -1,0 +1,27 @@
+﻿<element name="ticket" xmlns="http://relaxng.org/ns/structure/1.0">
+	<element name="id">
+		<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+	</element>
+	<element name="title">
+		<text/>
+	</element>
+	<element name="area">
+		<choice>
+			<value>front</value>
+			<value>center</value>
+			<value>seat</value>
+		</choice>
+	</element>
+	<element name="owner">
+		<text/>
+	</element>
+	<element name="price">
+		<data type="decimal" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+	</element>
+	<element name="eventid">
+		<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+	</element>
+	<element name="venueid">
+		<data type="integer" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"/>
+	</element>
+</element>

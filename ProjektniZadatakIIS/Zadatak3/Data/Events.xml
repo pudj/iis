@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<event>
+	<id>1</id>
+	<name>Party u Močvari</name>
+	<type>Party</type>
+	<url>http://mocvara.com/event/1</url>
+	<promoter>Močvara Promotions</promoter>
+	<startdate>2022-08-01</startdate>
+	<enddate>2022-08-02</enddate>
+	<price>50</price>
+	<venue>
+		<id>1</id>
+		<name>Močvara</name>
+		<address>Neka adresa</address>
+		<city>Zagreb</city>
+		<country>Hrvatska</country>
+		<postalcode>10000</postalcode>
+		<contactname>Pero</contactname>
+	</venue>
+</event>
+	<event>
+		<id>2</id>
+		<name>Koncert u Skwhatu</name>
+		<type>Koncert</type>
+		<url>http://swkwhat.com/event/2</url>
+		<promoter>Kištra</promoter>
+		<startdate>2022-08-10</startdate>
+		<enddate>2022-08-11</enddate>
+		<price>80</price>
+		<venue>
+			<id>2</id>
+			<name>Skwhat</name>
+			<address>Viktorovac 1</address>
+			<city>Sisak</city>
+			<country>Hrvatska</country>
+			<postalcode>44000</postalcode>
+			<contactname>Ivica</contactname>
+		</venue>
+	</event>
+	<event>
+		<id>3</id>
+		<name>Festival u Močvari</name>
+		<type>Festival</type>
+		<url>http://mocvara.com/festival/1</url>
+		<promoter>Čvarci</promoter>
+		<startdate>2022-09-01</startdate>
+		<enddate>2022-09-04</enddate>
+		<price>220</price>
+		<venue>
+			<id>1</id>
+			<name>Močvara</name>
+			<address>Neka adresa</address>
+			<city>Zagreb</city>
+			<country>Hrvatska</country>
+			<postalcode>10000</postalcode>
+			<contactname>Pero</contactname>
+		</venue>
+	</event>
+</events>

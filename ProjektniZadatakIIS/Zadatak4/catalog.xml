@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:5068/EventService.asmx/GetEvents" uri="xml-resources/jaxb/Event/localhost_5068/EventService.asmx/getevents.xml"/>
+    <system systemId="file:/C:/Users/nadan.marenkovic/Desktop/tuts/ProjektniZadatakIIS/Zadatak4/src/zadatak4/Models/events.xml" uri="xml-resources/jaxb/Event/events.xml"/>
+    <system systemId="file:/C:/Users/nadan.marenkovic/Desktop/tuts/ProjektniZadatakIIS/Zadatak4/xml-resources/jaxb/Event/events.xml" uri="xml-resources/jaxb/Evt/events.xml"/>
+</catalog>

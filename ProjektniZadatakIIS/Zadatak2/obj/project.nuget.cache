@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJi68G8y8kZ3ozdX9PZPT35H8XVnediXYI3Uv5ODuFlx5fgUvTjFbFlCNRSH+Fb+K41yIlrS12DZ8CvjUA06FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nadan.marenkovic\\Desktop\\tuts\\ProjektniZadatakIIS\\Zadatak2\\Zadatak2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nadan.marenkovic\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nadan.marenkovic\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nadan.marenkovic\\.nuget\\packages\\relaxng\\3.2.3\\relaxng.3.2.3.nupkg.sha512",
+    "C:\\Users\\nadan.marenkovic\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\nadan.marenkovic\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\nadan.marenkovic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\nadan.marenkovic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RelaxNG 3.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "RelaxNG",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

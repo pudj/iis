@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<event xsi:noNamespaceSchemaLocation="Event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<id>1</id>
+	<name>string</name>
+	<type>Party</type>
+	<url>string</url>
+	<promoter>string</promoter>
+	<startdate>1972-06-20T04:30:25.12</startdate>
+	<enddate>1978-07-05T05:55:08.53</enddate>
+	<price>-689969.765094196</price>
+	<venue>
+		<id>AAAAB</id>
+		<name>string</name>
+		<address>string</address>
+		<city>string</city>
+		<country>string</country>
+		<postalcode>string</postalcode>
+		<contactname>string</contactname>
+	</venue>
+</event>
